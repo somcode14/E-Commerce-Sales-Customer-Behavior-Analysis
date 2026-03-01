@@ -51,21 +51,7 @@ The Streamlit app allows users to:
 - Scikit-learn  
 - Streamlit  
 
----
-
-## 📁 Project Structure
-
-```text
-app.py
-rf_model.pkl
-le_city.pkl
-le_device.pkl
-le_gender.pkl
-le_payment.pkl
-le_product.pkl
-requirements.txt
-README.md
-
+-----
 
 ## Live Demo
 
