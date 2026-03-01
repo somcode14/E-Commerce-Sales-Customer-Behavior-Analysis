@@ -1,8 +1,6 @@
-app.py
-rf_model.pkl
-le_city.pkl
-le_device.pkl
-le_gender.pkl
-le_payment.pkl
-le_product.pkl
+streamlit
+pandas
+numpy
+scikit-learn
+
 requirements.txt
