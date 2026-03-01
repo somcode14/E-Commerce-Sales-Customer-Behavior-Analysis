@@ -25,7 +25,7 @@ The application is built using **Python**, **Machine Learning**, and **Streamlit
 
 ## 🧠 Machine Learning Model
 
-- Algorithm used: **Random Forest Regressor**  
+- Algorithm used: **Linear Regression** , **Polynomial Regression** , **Decision Tree Regressor** , **Random Forest Regressor** , **K-Nearest Neighbors (KNN) Regressor** 
 - Trained on e-commerce customer behavior dataset  
 - Handles both numerical and categorical features  
 - Label Encoding used for categorical variables  
